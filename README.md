@@ -14,7 +14,7 @@ N/A
 
 The page can be accessed viia this link: https://loganlagrange.github.io/challenge-1-horiseon/
 
-![screenshot of the page](assets/images/README-screenshot.PNG)
+![screenshot of the page](assets/images/README-screenshot.png)
 
 The page is used by viewing information about the company and what they offer on the page, in addition there are 3 links to jump to specific areas on the right side of the header at the top of the page.
 
